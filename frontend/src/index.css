@@ -1,0 +1,5 @@
+body { background: #f4f8f2; }
+.navbar-agri { background: #2e7d32; }
+.card { border: none; box-shadow: 0 2px 8px rgba(0,0,0,.08); }
+.stat { border-left: 5px solid #2e7d32; }
+@media (max-width: 576px) { .container { padding-left: 10px; padding-right: 10px; } }
